@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/partie1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tutoriel :"/>
+
+    <Button
+        android:id="@+id/btn_excercice1"
+        android:text="Excercice1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick1"/>
+
+    <Button
+        android:id="@+id/btn_excercice2"
+        android:text="Excercice2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick2"/>
+
+    <TextView
+        android:id="@+id/partie2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exemple d'application des fragments statiques :"/>
+
+    <Button
+        android:id="@+id/btn_excercice3"
+        android:text="Faire un relevé"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick3"/>
+
+</LinearLayout>

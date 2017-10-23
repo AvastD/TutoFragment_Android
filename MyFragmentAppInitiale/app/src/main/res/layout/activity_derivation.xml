@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Contenu de l'exercice -->
+    <TextView
+        android:id="@+id/exercice_derivation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/excercice_derivation"
+         />
+
+    <!-- Notes de cours -->
+    <TextView
+        android:id="@+id/notes_cours_deriv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/colorGreen"/>
+
+    <!--<fragment-->
+        <!--android:id="@+id/fragment1"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:name="com.example.ongenae.myfragmentapp.fragments_maths.MathsTipsFragment">-->
+    <!--</fragment>-->
+
+
+</LinearLayout>

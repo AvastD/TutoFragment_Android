@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mes excercices de Maths</string>
+    <string name="excercice_thales">AB = 6 cm ; AN = 2 cm ; AC = 3 cm ; MN = 1,5cm\n Les droites d\'1 et d\'2 sont parallèles.\n\nQuestion : Calculez AM et BC</string>
+    <string name="excercice_derivation">Voici des fonctions définies dérivables sur R :\n\n1) f(x) = x² + 8\n\n2) g(x) = x^3 + x² + x\n\n3) h(x) = 5x^3 + 4x² + 10\n\n4) i(x) = (9x + 2)^4\n\n5) j(x) = (2x + 5)^3\n\n6) k(x) = (4x + 1)^5\n\n\nQuestion : Pour chacune de ces fonctions déterminez sa dérivée.</string>
+    <string name="instructions_releve">Instructions :\n\n- la température se prend avec un thermomètre\n- L\'humidité est calculée par l\'hygromètre\n\n- Les crocodiles se sont les trucs verts avec beaucoup de dents.</string>
+</resources>
